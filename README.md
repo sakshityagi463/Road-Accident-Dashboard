@@ -41,3 +41,6 @@ Examining the relationship between casualties and factors like the area or locat
 ![Screenshot 2024-02-15 103049](https://github.com/sakshityagi463/Road-Accident-Dashboard/assets/139478287/4b75bcc6-1ad6-435b-8521-36cfde695306)
 
 **In summary**, the Road Dashboard aims to offer a comprehensive view of road safety by exploring various dimensions of the provided dataset, ultimately assisting the client in making informed decisions to enhance road safety measures.
+
+Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on
+https://www.linkedin.com/in/sakshi-tyagi-3104a7223
